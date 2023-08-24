@@ -43,7 +43,7 @@ git clone https://github.com/reddy0852/Hospital_Management_System.git
 ![User Homepage](/screenshots/welcome_page.png)
 *User Homepage: [This is the Homepage in which the user needs to choose respective option.]*
 
-![Admin Portal](/screenshots/admin_portal.png)
+![Admin Portal](/screenshots/admin_login.png)
 *Admin Portal: [When the user is admin
 Admin has privileges to edit each and every details in the hospital.]*
 
