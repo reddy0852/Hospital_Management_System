@@ -22,7 +22,6 @@ git clone https://github.com/reddy0852/Hospital_Management_System.git
 * JDBC Connector 3.2+
 * MySQL
 
-3. [Additional installation steps if needed]
 
 ## Usage
 
